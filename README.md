@@ -31,10 +31,3 @@ You DO NOT NEED MySQL in order to use Exsto.  It is completely optional.  I had 
 ### Feature 'x' isn't working / I want feature 'x'
 
 Github issues page please.  Let me know here, not through steam or email.  A big problem with Exsto 2010 was that I never received bug reports, other than people on steam saying 'This isn't working!'.  So please, if you want something fixed, make an issue for it.  I'd like to fix it as well.
-
-### Donations
-
-Me and Revanne are poor (or at least I am).  We both work on Exsto in our spare time, day and night, through hell and high water.  We both are University students, so it would be nice to get some cash to help pay for it.  If you have a little spark in your heart, feel free to donate to:
-dumbplanet424@gmail.com
-
-And you'll get our personal thanks :)
